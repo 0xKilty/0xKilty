@@ -12,11 +12,6 @@ My other intrests include:
 - Biking
 - Chess
 
-I am currently:
-- Learning: Vim & C++
-- Reading: [Rust In Action](https://www.rustinaction.com/)
-- Working on: [csshu](https://github.com/0xKilty/csshu)
-
 My personal site: [0xkilty.github.io](https://0xkilty.github.io/#/)
 
 ![](https://img.shields.io/github/last-commit/0xkilty/0xkilty)
