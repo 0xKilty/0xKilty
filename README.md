@@ -1,16 +1,19 @@
 ## [0xKilty](https://0xkilty.github.io/#/)
-Hi, I am Ian Kilty. 
-I am a freshmen in college at Colorado State University studying computer science and computer engineering. 
+Hello, my name is Ian Kilty. 
 
-My computer intrests include:
-- Cyber security 
-- Web development
-- Systems programming
+I'm a computer science student at Colorado State University majoring in computer science and minoring in computer engineering. I'm also learning the Russian language. My goal is to work in cyber security specifically in malware analysis. As of the summer of 2023, I have hopes of starting a web development practice and completing cyber security certifications.
 
-My other intrests include:
-- Running
-- Biking
-- Chess
+Hobbies:
+- 👨‍💻 Programming
+- 🚴‍♂️ Cyclocross
+- 📈 Entrepreneurship
+- 🇷🇺 Learning Russian
+
+Programming intrests:
+- 🖥️ Cyber security
+- 🌐 Web development
+- 💾 Systems programming
+- 🔍 Malware Analysis
 
 My personal site: [0xkilty.github.io](https://0xkilty.github.io/#/)
 
