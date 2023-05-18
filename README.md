@@ -15,6 +15,6 @@ Programming intrests:
 - 💾 Systems programming
 - 🔍 Malware Analysis
 
-My personal site: [0xkilty.github.io](https://iankilty.com)
+My personal site: [iankilty.com](https://iankilty.com)
 
 ![](https://img.shields.io/github/last-commit/0xkilty/0xkilty)
