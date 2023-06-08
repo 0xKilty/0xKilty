@@ -5,7 +5,7 @@ I'm a computer science student at Colorado State University majoring in computer
 
 Hobbies:
 - 👨‍💻 Programming
-- 🚴‍♂️ Cyclocross
+- 🚴‍♂️ Biking
 - 📈 Entrepreneurship
 - 🇷🇺 Learning Russian
 
