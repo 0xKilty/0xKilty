@@ -19,6 +19,6 @@ Things I do on the computer
 - 🔍 Malware Analysis
 
 Currently Reading
-- [Abstract Algebra: Theory and Applications](http://abstract.ups.edu/)
+- The Mathamatical Theory of Communication, Claude E. Shannon
 
 My personal site: [iankilty.com](https://iankilty.com)
