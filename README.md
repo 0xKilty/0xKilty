@@ -10,7 +10,7 @@ I'm also currently looking for an internship for the summer of 2024. Please feel
 Things I do
 - 👨‍💻 Programming
 - 🚴‍♂️ Biking
-- 🔢 Mathamatics
+- 🔢 Mathematics
 
 Things I do on the computer
 - 🖥️ Cyber security
