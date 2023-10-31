@@ -1,7 +1,7 @@
 # [0xKilty](https://iankilty.com/)
 ## Hello, my name is Ian Kilty. 
 
-I'm an undergraduate student at Colorado State University double majoring in comptuer science with a concentration in networking and security and mathematics with a concentration in computational mathematics and minoring in computer engineering.
+I'm an undergraduate student at Colorado State University double majoring in comptuer science with a concentration in networking and security and mathamatics with a concentration in computational mathamatics and minoring in computer engineering.
 
 I mainly enjoy the creativity within these subjects and the challenge to find something both useful and somewhat new.
 
