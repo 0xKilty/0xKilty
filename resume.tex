@@ -1,0 +1,167 @@
+\documentclass[a4paper]{article}
+    \usepackage{fullpage}
+    \usepackage{amsmath}
+    \usepackage{amssymb}
+    \usepackage{textcomp}
+    \usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc}
+    \textheight=10in
+    \pagestyle{empty}
+    \raggedright
+    \usepackage[left=0.8in,right=0.8in,bottom=0.8in,top=0.8in]{geometry}
+
+    %\renewcommand{\encodingdefault}{cg}
+%\renewcommand{\rmdefault}{lgrcmr}
+
+\def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
+
+% DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\area} [2] {
+    \vspace*{-9pt}
+    \begin{verse}
+        \textbf{#1}   #2
+    \end{verse}
+}
+
+\newcommand{\lineunder} {
+    \vspace*{-8pt} \\
+    \hspace*{-18pt} \hrulefill \\
+}
+
+\newcommand{\header} [1] {
+    {\hspace*{-18pt}\vspace*{6pt} \textsc{#1}}
+    \vspace*{-6pt} \lineunder
+}
+
+\newcommand{\employer} [3] {
+    { \textbf{#1} (#2)\\ \underline{\textbf{\emph{#3}}}\\  }
+}
+
+\newcommand{\contact} [3] {
+    \vspace*{-10pt}
+    \begin{center}
+        {\Huge \scshape {#1}}\\
+        #2 \\ #3
+    \end{center}
+    \vspace*{-8pt}
+}
+
+\newenvironment{achievements}{
+    \begin{list}
+        {$\bullet$}{\topsep 0pt \itemsep -2pt}}{\vspace*{4pt}
+    \end{list}
+}
+
+\newcommand{\schoolwithcourses} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+    \vspace*{5pt}
+}
+
+\newcommand{\school} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+}
+% END RESUME DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%
+
+    \begin{document}
+\vspace*{-40pt}
+
+    
+
+%==== Profile ====%
+\vspace*{-10pt}
+\begin{center}
+	{\Huge \scshape {Ian Kilty}}\\
+	Denver, CO $\cdot$ iankilty1@gmail.com $\cdot$ 303-941-0929 $\cdot$ iankilty.com\\
+\end{center}
+
+%==== Education ====%
+\header{Education}
+\textbf{Colorado State University}
+\hfill Fort Collins\\
+
+Bachlors in Computer Science, Networking and Security\hfill Aug. 2022 - Present\\
+
+Bachlors in Mathematics, Computational Mathematics
+
+Minor in Computer Engineering
+
+\textit{GPA: 3.76}
+\vspace{2mm}
+
+%==== Experience ====%
+\header{Work Experience}
+\vspace{1mm}
+
+\textbf{CSU Engineering Technology Services} \hfill Fort Collins\\
+\textit{IT Support} \hfill Aug. 2023 - Present\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item User Privilege Management
+	\item Solving Technical Problems
+	\item Interpersonal Communication
+	\item Authorized Super User Access
+\end{itemize}
+
+\textbf{Rays Cyber Research Lab} \hfill Fort Collins\\
+\textit{Researcher} \hfill Oct. 2023 - Present\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Machine Learning
+	\item Network Fingerprinting
+\end{itemize}
+
+\header{Skills}
+\begin{tabular}{ l l }
+	Programming Languages:                 & Rust, Go, C, C++, Julia, Javascript, Java, Python, R\\
+                                           & Assembly, SQL \\
+	Frontend Development:                  & React, Web Assembly \\
+	Version Control:                       & git, Github, Scrum \\
+    Security Tools:                        & Burp Suite, Metasploit, Ghidra, nmap, Wire Shark, FlareVM \\
+	Operating Systems/Linux Distrobutions: & Debian, Fedora, Arch, Kali, Windows 10/11 \\
+\end{tabular}
+\vspace{2mm}
+
+\header{Projects}
+{\textbf{filler}} {\sl React, Rust, Web Assembly} \hfill 0xkilty.github.io/filler\\
+A website to play the game \textquotedbl{}filler\textquotedbl{} and an algorithm to play against made with web assembly.\\
+\vspace*{2mm}
+{\textbf{static-sight}} {\sl Go, Javascript} \hfill iankilty.com\\
+A static sight generator for my website iankilty.com made with go.\\
+\vspace*{2mm}
+{\textbf{patrcoin}} {\sl Solidity} \hfill github.com/0xKilty/patricoin-contract\\
+A crypto token made with solidity deployed on the ethereum.\\
+\vspace*{2mm}
+{\textbf{no-hash}} {\sl C++} \hfill github.com/0xKilty/no-hash\\
+A C++ program that duplicates itself with a different file hash.\\
+\vspace*{2mm}
+
+\header{Awards}
+\textbf{3rd in CSU VR Hackathon} \hfill Colorado State University\\
+\hfill Oct. 2022\\
+\vspace*{2mm}
+\textbf{4th in CS @ Mines Programming Competition} \hfill Colorado School of Mines\\
+\hfill April. 2023\\
+\vspace*{2mm}
+
+\header{Relevant Classes}
+\begin{tabular}{ l l }
+    \textbf{CS 370} & Operating Systems\\
+    \textbf{CS 320} & Algorithms Theory and Practice\\
+	\textbf{CS 314} & Software Engineering\\
+	\textbf{CS 256} & Software Development with C++\\
+    \textbf{CS 250} & Computer Systems Foundations\\
+	\textbf{CS 220} & Discrete Structures\\
+    \textbf{CS 165} & Data Structures\\ 
+    \textbf{MATH 256} & Calculus II for Computational Sciences\\
+\end{tabular}
+\vspace*{2mm}
+
+\header{Presentations}
+{\textbf{Basics of Malware Analysis}} - {\sl 9/27/2023} \hfill Hashdump Cybersecurity\\
+Reverse Engineering, Virtualization, Executable Analysis, Safe Deployment of Malware\\
+
+\ 
+\end{document}
