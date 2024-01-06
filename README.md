@@ -17,8 +17,8 @@ Currently Practicing:
 - 🚩 CTF skills
 
 Things I do:
-- 👨‍💻 Programming
 - 🏃 Running
+- 🚴 Biking
 - 🔢 Mathematics
 
 Things I do on the computer:
